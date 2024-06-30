@@ -1,5 +1,5 @@
 # Catalina-NLP-Chatbot
-
+Hi there! I'm Catalina - a chatbot for traveling in South America! ✈️☀️💃
 
 # Overview
 A conversational rules-based chatbot created on the topic of traveling in South America, using various Natural Language Processing techniques such as TF-IDF vectorization and cosine similarity. The chatbot has 2 parts: the knowledge base and the conversation flow.
